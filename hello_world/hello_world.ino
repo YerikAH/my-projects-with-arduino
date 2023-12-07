@@ -21,5 +21,5 @@ void loop() {
     delay(1000);
     digitalWrite(pinChoice, LOW);
     delay(1000);
-  }
+  } 
 }
